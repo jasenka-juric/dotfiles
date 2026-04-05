@@ -1,0 +1,7 @@
+terminal.shell = "nu"
+
+[env]
+EDITOR = "hx"
+
+[window]
+opacity = 0.9
