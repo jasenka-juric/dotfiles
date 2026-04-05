@@ -9,7 +9,7 @@ if (!(Test-Path $sshPath)) {
 
 $packages = @(
   "ajeetdsouza.zoxide",
-  "BurntSushi.ripgrep",
+  "BurntSushi.ripgrep.GNU",
   "sharkdp.fd",
   "Git.Git",
   "Helix.Helix",
