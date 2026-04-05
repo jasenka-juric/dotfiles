@@ -19,7 +19,8 @@ $packages = @(
   "twpayne.chezmoi",
   "sxyazi.yazi",
   "WireGuard.WireGuard",
-  "Brave.Brave"
+  "Brave.Brave",
+  "DEVCOM.JetBrainsMonoNerdFont"
 )
 
 foreach ($pkg in $packages) {
