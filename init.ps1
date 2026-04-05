@@ -17,7 +17,8 @@ $packages = @(
   "Nushell.Nushell",
   "jesseduffield.lazygit",
   "twpayne.chezmoi",
-  "sxyazi.yazi"
+  "sxyazi.yazi",
+  "WireGuard.WireGuard"
 )
 
 foreach ($pkg in $packages) {
